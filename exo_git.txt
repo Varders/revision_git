@@ -1,6 +1,4 @@
-python 
+a = 6
+b = 7 
 
-je saispas quoi mettre 
-
-a = 3
-b = bonjour 
+print (a + b) * 2
