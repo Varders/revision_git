@@ -1,0 +1,6 @@
+python 
+
+je saispas quoi mettre 
+
+a = 3
+b = bonjour 
